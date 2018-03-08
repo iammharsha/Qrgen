@@ -1,0 +1,5 @@
+gen_qr.py - To generate QR codes. Change the path to where you want to save the generated qr.
+
+template.py - To paste the generated qr in the template. Change the source and destination path respectively.
+
+pngtopdf.py- To convert the given qr in png format after pasting it in template to pdf. Change the source and destination path.
